@@ -2,7 +2,7 @@
 
  OS X command line tools for developers
 
-![image](https://github.com/guarinogabriel/mac-cli/raw/master/demo/demo.gif)
+![image](https://github.com/voska/mac-cli/raw/master/demo/demo.gif)
 
 The ultimate tool for developer to manage Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.
 When you run a function, the executed command is displayed and that helps you memorize each of the Utilities for future usage.
@@ -12,7 +12,7 @@ When you run a function, the executed command is displayed and that helps you me
 ### Installation in 2 Simple Steps
 
 1- Download command line tool to your local machine:
-> `git clone git@github.com:guarinogabriel/mac-cli.git && cd mac-cli`
+> `git clone git@github.com:voska/mac-cli.git && cd mac-cli`
 
 2- Run the installer. There are 2 install options:
 
